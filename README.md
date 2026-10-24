@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**srikanthyadav-tech/srikanthyadav-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about software development and learning new technologies.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Java, Data Structures and Algorithms (DSA).
+- 💻 Interested in Full-Stack Development.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 📚 Hobbies: Learning new skills and reading books.
+
+🛠️ Technologies
+
+- Java
+- Flutter
+- Dart
+- Git and GitHub
+
+📱 Featured Project: Timetable Scheduler
+
+A Flutter-based college timetable application with:
+
+- Daily, weekly, and monthly timetable views
+- Faculty schedules
+- Class editing
+- Academic task management
+
+Technology: Flutter and Dart
+
+📥 "Download Timetable Scheduler APK v1.2.0" (https://github.com/srikanthyadav-tech/Timetable-scheduler/releases/tag/v1.2.0)
+
+🔗 "View Project Source Code" (https://github.com/srikanthyadav-tech/Timetable-scheduler)
+
+🎯 Goals
+
+- Become a Java Full-Stack Developer.
+- Improve problem-solving and coding skills.
+- Explore AI and Machine Learning.
+
+Thanks for visiting my profile! 😊
